@@ -1,7 +1,6 @@
 import unittest
 from arithmetic_arranger import arithmetic_arranger
-
-# test cases by @ShreyasSubhedar from https://github.com/ShreyasSubhedar/fcc-arithmetic-arranger/blob/master/test_module.py
+odule.py
 
 class UnitTests(unittest.TestCase):
     def test_arrangement(self):
